@@ -14,3 +14,12 @@
 - Join e Union
 - SQL
 - Formato CSV OCR PARQUET
+
+## NLP
+- Nuvem de Palavras
+- Remoção de caracteres especiasis
+- separar em partes Tokenização
+- Remover ruidos os StopWords
+- Vetorizar ou Bag of Words
+- Modelo de arvore de decisao
+- Teste e Metrificação
