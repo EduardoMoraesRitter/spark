@@ -23,3 +23,11 @@
 - Vetorizar ou Bag of Words
 - Modelo de arvore de decisao
 - Teste e Metrificação
+
+
+## Text Multi-class
+- Tokenizer
+- StopWordsRemover
+- CountVectorizer
+- IDF
+- LogisticRegression
